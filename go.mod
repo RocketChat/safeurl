@@ -1,4 +1,4 @@
-module github.com/doyensec/safeurl
+module github.com/RocketChat/safeurl
 
 go 1.17
 
